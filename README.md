@@ -8,8 +8,12 @@
 </p>
 
 <p align="center">
-  <b>🌊 Powered by <a href="https://wavespeed.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-api">WaveSpeed AI</a> — serverless Seedream API, pay-as-you-go, zero cold starts.</b><br>
+  <b>🌊 Powered by <a href="https://wavespeed.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-api">WaveSpeedAI</a> — serverless Seedream API, pay-as-you-go, zero cold starts.</b><br>
   <a href="https://wavespeed.ai/seedream-5-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-api"><b>→ Get a Seedream 5 API key</b></a> &nbsp;·&nbsp; <a href="https://wavespeed.ai/seedream-4-5-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-api"><b>→ Try Seedream 4.5</b></a>
+</p>
+
+<p align="center">
+  🖥️ <b>No code?</b> Generate in your browser (no setup, free to start) → <a href="https://wavespeed.ai/image-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-api"><b>WaveSpeedAI Image Generator</b></a>
 </p>
 
 ---
@@ -240,7 +244,7 @@ a dreamy top-down film photograph of a young beautiful East Asian woman lying on
 ---
 
 ## Related Model Guides
-Part of the WaveSpeed **Awesome Model** series — one guide per frontier model, all runnable through one API:
+Part of the WaveSpeedAI **Awesome Model** series — one guide per frontier model, all runnable through one API:
 
 - 🎬 [awesome-seedance-api](https://github.com/WaveSpeedAI/awesome-seedance-api) — ByteDance Seedance video
 - 🌊 [awesome-wan-api](https://github.com/WaveSpeedAI/awesome-wan-api) — Alibaba Wan video
@@ -262,4 +266,4 @@ PRs welcome:
 [CC0-1.0](LICENSE) — text & prompts are free to use. Model outputs follow the model provider's and [WaveSpeed](https://wavespeed.ai)'s terms.
 
 ---
-<p align="center"><sub>Maintained by <a href="https://wavespeed.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-api">WaveSpeed AI</a> — the fastest way to run frontier image & video models via one API. <a href="https://wavespeed.ai/seedream-5-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-api"><b>Run Seedream →</b></a></sub></p>
+<p align="center"><sub>Maintained by <a href="https://wavespeed.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-api">WaveSpeedAI</a> — the fastest way to run frontier image & video models via one API. <a href="https://wavespeed.ai/seedream-5-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-api"><b>Run Seedream →</b></a></sub></p>
